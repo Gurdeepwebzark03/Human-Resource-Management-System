@@ -1,3 +1,8 @@
+
 # HRMS Starter
 
-Starter scaffold for HRMS internship assignment.
+HRMS internship assignment.
+
+# Human-Resource-Management-System
+Manage your workforce with one platform.
+
