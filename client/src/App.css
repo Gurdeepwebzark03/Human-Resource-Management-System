@@ -1,0 +1,21 @@
+.app-container {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.page-container {
+  padding: 25px;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+}

@@ -1,0 +1,2 @@
+{
+"name":"server","scripts":{"dev":"nodemon server.js","start":"node server.js"}}
